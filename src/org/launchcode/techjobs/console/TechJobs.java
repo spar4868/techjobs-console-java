@@ -124,5 +124,4 @@ public class TechJobs {
             System.out.println("No jobs found that meet search criteria.");
         }
     }
-        //System.out.println("printJobs is not implemented yet");
 }
